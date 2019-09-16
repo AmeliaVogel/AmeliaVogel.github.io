@@ -1,3 +1,10 @@
 .nav-table {width: 800px;}
 
 .nav-td {width: 200px; text-align:center;} 
+
+body { background-color: rgb (135,206,250);}
+
+#page {
+  width: 800px
+}
+        
